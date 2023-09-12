@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-=======
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill.</p>
+    <p>Please fill in this form to create an account.</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
@@ -24,4 +22,3 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
->>>>>>> e4116f694635a3171266a9889172b027038e288a
