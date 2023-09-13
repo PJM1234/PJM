@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>meron account.</p>
+    <p>merong account.</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
