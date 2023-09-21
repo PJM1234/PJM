@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>msg jmt</p>
+    <p>msg jmt good</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
