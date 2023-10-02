@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>4gl academy project</p>
+    <p>4gl academy project update</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
